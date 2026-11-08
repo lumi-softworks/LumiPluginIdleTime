@@ -1,8 +1,10 @@
 # LumiPluginIdleTime
 
-Lumi 编辑器插件（空闲时间追踪）。
+📖 English | [中文版](README_zh.md)
 
-> 插件包契约：不对其它具体插件产生实现依赖，只消费 `LumiProviders` 提供的 `*Providing` 能力。
+Lumi editor plugin (idle time tracking).
+
+> Plugin package contract: no implementation dependency on any other concrete plugin; it only consumes the `*Providing` capabilities offered by `LumiProviders`.
 
 ## Package
 
@@ -11,14 +13,14 @@ Lumi 编辑器插件（空闲时间追踪）。
 - Platform: macOS 14+ / iOS 17+
 - Swift tools: 6.0
 
-## 提供什么
+## What It Provides
 
-空闲时间活动追踪插件。宿主在 `onBoot` 解析内核注册的 `IdleTimeProviding`：
+An idle time activity tracking plugin. The host resolves the kernel-registered `IdleTimeProviding` in `onBoot`:
 
-- 监听应用激活、编辑器保存等活动事件，节流后喂给服务做休息窗口推断；
-- 贡献关于文档与使用手册。
+- Listens to activity events such as app activation and editor saves, throttles them, and feeds them to the service for rest-window inference;
+- Contributes about docs and the user manual.
 
-## 依赖与集成
+## Dependencies and Integration
 
 ```swift
 dependencies: [
@@ -31,8 +33,7 @@ targets: [
 ]
 ```
 
-宿主还需在 `PluginFactory` 中实例化 `IdleTimePlugin()`，并在 `ProviderFactory` 中注册
-`IdleTimeProviding`（工厂已内置 `IdleTimeService` 默认实现）。
+The host must also instantiate `IdleTimePlugin()` in its `PluginFactory` and register `IdleTimeProviding` in its `ProviderFactory` (the factory already has a built-in `IdleTimeService` default implementation).
 
 ## Testing
 
