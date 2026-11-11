@@ -24,7 +24,7 @@ Lumi 编辑器插件（空闲时间追踪）。
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/CofficLab/LumiPluginIdleTime.git", from: "1.0.0"),
+    .package(url: "https://github.com/lumi-softworks/LumiPluginIdleTime.git", from: "1.0.0"),
 ],
 targets: [
     .target(name: "YourTarget", dependencies: [

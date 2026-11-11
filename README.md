@@ -24,7 +24,7 @@ An idle time activity tracking plugin. The host resolves the kernel-registered `
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/CofficLab/LumiPluginIdleTime.git", from: "1.0.0"),
+    .package(url: "https://github.com/lumi-softworks/LumiPluginIdleTime.git", from: "1.0.0"),
 ],
 targets: [
     .target(name: "YourTarget", dependencies: [
