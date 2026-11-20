@@ -48,6 +48,24 @@
             "state" : "translated",
             "value" : "24小时"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24小時"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24小時"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24小時"
+          }
         }
       }
     },
@@ -63,6 +81,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "活动热条"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動熱條"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動熱條"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動熱條"
           }
         }
       }
@@ -80,6 +116,24 @@
             "state" : "translated",
             "value" : "活动追踪"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動追蹤"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動追蹤"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動追蹤"
+          }
         }
       }
     },
@@ -96,6 +150,24 @@
             "state" : "translated",
             "value" : "活动可视化"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動可視化"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動可視化"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動可視化"
+          }
         }
       }
     },
@@ -111,6 +183,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自动"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動"
           }
         }
       }
@@ -158,6 +248,24 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心能力"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心能力"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心能力"
+          }
+        },
+        "zh-TW" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "核心能力"
@@ -280,6 +388,24 @@
             "state" : "translated",
             "value" : "效率复盘"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "效率複盤"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "效率複盤"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "效率複盤"
+          }
         }
       }
     },
@@ -329,6 +455,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "专注计时"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "專注計時"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "專注計時"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "專注計時"
           }
         }
       }
@@ -448,6 +592,24 @@
             "state" : "translated",
             "value" : "空闲时间追踪"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒時間追蹤"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒時間追蹤"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒時間追蹤"
+          }
         }
       }
     },
@@ -464,6 +626,24 @@
             "state" : "translated",
             "value" : "空闲追踪"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒追蹤"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒追蹤"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空閒追蹤"
+          }
         }
       }
     },
@@ -479,6 +659,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "从活动历史推断你的周期性休息窗口。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從活動歷史推斷你的週期性休息窗口。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從活動歷史推斷你的週期性休息窗口。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從活動歷史推斷你的週期性休息窗口。"
           }
         }
       }
@@ -598,6 +796,24 @@
             "state" : "translated",
             "value" : "监控全天电脑空闲时间与不活动模式。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "監控全天電腦空閒時間與不活動模式。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "監控全天電腦空閒時間與不活動模式。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "監控全天電腦空閒時間與不活動模式。"
+          }
         }
       }
     },
@@ -648,6 +864,24 @@
             "state" : "translated",
             "value" : "久坐空闲时提醒你起身活动。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "久坐空閒時提醒你起身活動。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "久坐空閒時提醒你起身活動。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "久坐空閒時提醒你起身活動。"
+          }
         }
       }
     },
@@ -663,6 +897,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "结合空闲识别真实的专注时长。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒識別真實的專注時長。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒識別真實的專注時長。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒識別真實的專注時長。"
           }
         }
       }
@@ -680,6 +932,24 @@
             "state" : "translated",
             "value" : "休息检测"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息檢測"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息檢測"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息檢測"
+          }
         }
       }
     },
@@ -696,6 +966,24 @@
             "state" : "translated",
             "value" : "休息窗口检测"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口檢測"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口檢測"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口檢測"
+          }
         }
       }
     },
@@ -708,6 +996,24 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休息窗口"
+          }
+        },
+        "zh-TW" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "休息窗口"
@@ -728,6 +1034,24 @@
             "state" : "translated",
             "value" : "用会话趋势回顾长期效率。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用會話趨勢回顧長期效率。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用會話趨勢回顧長期效率。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用會話趨勢回顧長期效率。"
+          }
         }
       }
     },
@@ -744,6 +1068,24 @@
             "state" : "translated",
             "value" : "结合空闲统计剖析工作会话与趋势。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒統計剖析工作會話與趨勢。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒統計剖析工作會話與趨勢。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結合空閒統計剖析工作會話與趨勢。"
+          }
         }
       }
     },
@@ -756,6 +1098,24 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作息分析"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作息分析"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作息分析"
+          }
+        },
+        "zh-TW" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "作息分析"
@@ -776,6 +1136,24 @@
             "state" : "translated",
             "value" : "以热条展示你何时活跃、何时空闲。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以熱條展示你何時活躍、何時空閒。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以熱條展示你何時活躍、何時空閒。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以熱條展示你何時活躍、何時空閒。"
+          }
         }
       }
     },
@@ -791,6 +1169,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看清一天的活跃与休息节律。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看清一天的活躍與休息節律。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看清一天的活躍與休息節律。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看清一天的活躍與休息節律。"
           }
         }
       }
@@ -808,6 +1204,24 @@
             "state" : "translated",
             "value" : "会话分析"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話分析"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話分析"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話分析"
+          }
         }
       }
     },
@@ -823,6 +1237,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "会话统计"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話統計"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話統計"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "會話統計"
           }
         }
       }
@@ -875,6 +1307,24 @@
             "state" : "translated",
             "value" : "追踪你的活动模式并检测休息窗口"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追蹤你的活動模式並檢測休息窗口"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追蹤你的活動模式並檢測休息窗口"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追蹤你的活動模式並檢測休息窗口"
+          }
         }
       }
     },
@@ -890,6 +1340,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "记录你一整天的活动节律：可视化休息窗口、空闲提醒与会话统计，看清时间去哪了。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記錄你一整天的活動節律：可視化休息窗口、空閒提醒與會話統計，看清時間去哪了。"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記錄你一整天的活動節律：可視化休息窗口、空閒提醒與會話統計，看清時間去哪了。"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記錄你一整天的活動節律：可視化休息窗口、空閒提醒與會話統計，看清時間去哪了。"
           }
         }
       }
@@ -907,6 +1375,24 @@
             "state" : "translated",
             "value" : "趋势"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "趨勢"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "趨勢"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "趨勢"
+          }
         }
       }
     },
@@ -922,6 +1408,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "适用场景"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適用場景"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適用場景"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適用場景"
           }
         }
       }
@@ -1003,6 +1507,24 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康提醒"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康提醒"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康提醒"
+          }
+        },
+        "zh-TW" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "健康提醒"
